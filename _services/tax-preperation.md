@@ -1,15 +1,27 @@
 ---
-title: "Tax Preperation"
+title: "Tax Preperation & Filing"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 6
 layout: service
 ---
 
-Taxes can be complicated and time-consuming. Let us help you with that. Our experts utilize knowledge of technical tax issues, apply Internal Revenue Code, tax regulations, and other primary authorities to assist our clients in any situation.
+## Stress-free tax seasons start here
+
+Taxes don’t need to be perplexing or panic-inducing. With over 25 years of experience, we take the guesswork out of filing, ensuring accuracy and maximizing the credits and deductions you deserve.
 
 ![Accounting Services](/images/alexander-mils-lCPhGxs7pww-unsplash.jpg) <!-- 1920 × 1263 -->
 
+## Who we help:
+
+* W-2 wage earners
+* Sole proprietors & Schedule C filers
+* Partnerships, LLCs, & corporations
+* Complex or multi-state returns
+
+*We handle the forms, deadlines, and fine print — you enjoy the confidence that comes with knowing it’s done right.*
+
+<!--
 ## Tax Preparation Services
 
 We will work with you to devise, plan, and execute the best tax strategy. We also research any potential tax issues.  
@@ -34,4 +46,4 @@ We cover all your needs:
 * Complex returns and returns on dissolution and liquidation
 * Review complex income taxes for customers applying to bank loans
 * Provide tax compliance and planning services
-
+-->

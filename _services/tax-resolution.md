@@ -1,18 +1,21 @@
 ---
-title: "Tax Resolution"
+title: "Tax Resolution & Support"
 date: 2018-11-28T15:14:39+10:00
 featured: true
 weight: 2
 layout: service
 ---
 
-Our experienced tax consultants help individuals and business owners resolve tax debts and tackle any tax liability. We navigate the tax code and help make sense of your available options for tax resolution. We are committed to solving your IRS problems quickly, efficiently, and affordably. 
+## Solutions that bring peace — not stress
+
+If you’re dealing with tax notices, unexpected bills, or IRS questions, we’re here to guide you through it. You don’t have to figure it out alone — we’ll help you understand your options and find the best path forward. 
 
 ![Accounting Services](/images/scott-graham-5fNmWej4tAA-unsplash.jpg)
 
-## Tax Resolution Services
+## We assist with:
 
-- Negotiations
-- Tax debt settlement
-- IRS payment plans
-- State Franchise 
+* IRS notices & correspondence
+* Payment plans & negotiation strategies
+* Back taxes & penalty resolution support
+
+*Because resolving tax issues shouldn’t feel like navigating a maze — especially when someone already knows the way.*

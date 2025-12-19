@@ -2,10 +2,12 @@
 title: Services
 layout: services
 intro_image: "images/illustrations/reading.svg"
-intro_image_absolute: true
+intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
 
-# Expert tax preparation services
+## Rooted in peace. Growing your prosperity. Guided with clarity.
 
-Over 25 years of experience. Rest easy, we got this. Our tax experts are ready to help!
+At Olive Tree Tax, we help individuals and businesses find **financial clarity and confidence** — without the confusion or stress that too often comes with taxes and accounting.
+
+Our services are tailored to meet you where you are, whether you’re a W-2 employee looking for peace of mind or a business owner aiming for long-term financial growth.

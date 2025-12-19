@@ -5,6 +5,24 @@ layout: page
 bodyClass: page-about
 ---
 
+> At Olive Tree Tax, we help individuals and business owners achieve financial stability and long-term success with expert tax, accounting, and bookkeeping services delivered in a friendly, supportive way. Inspired by the olive tree’s symbolism of peace, prosperity, victory, reconciliation, and abundance, we guide our clients toward clarity, confidence, and the freedom to focus on what matters most in life.
+
+## Rooted in Stability, Growing Your Financial Success
+
+Like the olive tree — a timeless symbol of **peace, prosperity, victory, reconciliation, and abundance** — our approach to tax and financial services is both *grounded and growth-oriented*. We help you weather tax season with calm confidence, and cultivate long-term financial health that lasts year-round.
+
+## Personalized Support (Not One-Size-Fits-All)
+
+No matter if you’re a W-2 earner, an LLC owner, or running a corporation, we take the time to understand your unique situation — not just plug numbers into software. That means *strategies that make sense for you*, not cookie-cutter advice.
+
+## Expertise You Can Trust
+
+We bring professional proficiency on tax prep, accounting, and bookkeeping — but you’ll *never feel baffled by jargon or brushed off with typical accountant talk*. We explain things in plain language, with a friendly guiding hand.
+
+
+### Your tax and accounting partner — rooted in clarity, growing with you. *También hablamos en español*.
+
+<!--
 > The olive tree symbolizes peace, prosperity, beauty, victory, reconciliation, and abundance.
 
 Our mission at Olive Tree Tax is help you succeed and reach your dreams. 
@@ -18,19 +36,5 @@ Don’t believe it?
 Try us.  
 
 It doesn’t matter whether you’re in a difficult situation or are winning at life, we want to help you reach your full potential.  
+-->
 
-## También ayudamos en español
-
-> El olivo simboliza la paz, la prosperidad, la belleza, la victoria, la reconciliación y la abundancia.
-
-Nuestra misión en Olive Tree Tax es ayudarlo a tener éxito y alcanzar sus sueños.
-Tener un experto a tu lado que te brinde orientación fiscal y financiera te ayudará a lograr estabilidad y tranquilidad en tus finanzas para que puedas disfrutar de las otras áreas de tu vida.
-
-## Ayuda de expertos
-
-Nuestros expertos incluyen agentes matriculados certificados, contadores fiscales, titulados de Maestría en Ciencias en Tributación. 
-Tienen la experiencia y el conocimiento académico para ayudarlo a navegar por el complicado código tributario y resolver cualquier problema del IRS. 
-¿No lo cree? 
-Pruebanos.
-
-No importa si se encuentra en una situación difícil o está ganando en la vida, queremos ayudarlo a alcanzar su máximo potencial.

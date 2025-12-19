@@ -2,13 +2,14 @@
 # this ensures Jekyll reads the file to be transformed into CSS later
 ---
 
-// Colors
-$primary: #2AC987;
-$secondary: #79F8AE;
+// Colors - updated as part of rebranding effort
+$primary: #1F3D2B; // deep evergreen
+$secondary: #9EB5A3; // soft sage
 $black: #2f2f41;
 $white: #ffffff;
-$white-offset: #DEFFDE;
-$steel: #5A5C5A;
+$white-offset: #F7F6F2; // warm off-white
+$steel: #4A4F55; // slate gray
+$gold: #C6A75E; // muted gold
 
 // Links
 $link-color: $primary;
@@ -17,8 +18,8 @@ $link-hover-color: lighten($primary, 10%);
 $link-hover-decoration: underline;
 
 // Fonts
-$font-family-base: Helvetica, Arial, sans-serif, -apple-system;
-$font-family-heading: 'Playfair Display', serif, -apple-system;
+$font-family-base: "Inter", system-ui, -apple-system, sans-serif !default;
+$font-family-heading: 'Playfair Display', serif !default;
 
 // Footer
 $footer-background-color: $primary;

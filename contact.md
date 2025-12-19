@@ -1,16 +1,22 @@
 ---
-title: Contact
+title: Why Olive Tree Tax?
 layout: contact
 bodyClass: page-contact
 ---
 
-Got your first job and need help filling out federal and state withholding election forms? Received a letter from the IRS and don't know where to start? Need help navigating changes in tax law? Started a new business? 
+## Professional but Approachable
 
-**We're just a phone call or email away.** 
+Unlike firms that lean heavy on credentials alone, we balance **deep tax knowledge with genuine care and clarity**. You’ll get domain expertise and someone who listens.
 
-¿*Consiguió su primer trabajo y necesita ayuda para completar los formularios de elección de retención federales y estatales? ¿Recibió una carta del IRS y no sabe por dónde empezar? ¿Necesita ayuda para navegar los cambios en la legislación fiscal? ¿Comenzó un nuevo negocio*?
+## Strategic, Not Transactional
 
-***Llámanos o envianos un email*.**
+We don’t just file taxes — we help you make smarter decisions that keep more of what you earn and plant seeds for future financial growth.
+
+## Built for Real People & Businesses
+
+Whether you’re navigating your first W-2 filing, structuring a partnership return, managing LLC books, or running a corporation, we simplify the complex, making the process stress-free and straightforward.
+
+### Let's build a strong financial foundation, reach out today. *También hablamos en español*.
 
 <!-- 
 __Available after-hours for urgent assistance.__

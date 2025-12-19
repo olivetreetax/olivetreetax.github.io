@@ -1,40 +1,25 @@
 ---
-title: "Accounting"
+title: "Accounting Services"
 date: 2018-11-18T12:33:46+10:00
 featured: true
 weight: 1
 layout: service
 ---
 
-We have over 20 years of progressive experience in general accounting, including financial planning and reporting and business management. 
+## Clarity for every financial decision.
+
+We keep your financial records accurate, organized, and meaningful so you’re not just compliant — you’re informed. Think of this as your financial foundation: solid, reliable, and ready to support growth.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-## Accounting Services
+## What's included:
 
-Here are some of the ways we can serve you:
+* General accounting tailored to your business structure
+* Monthly, quarterly, or annual reporting
+* Financial analysis that actually makes sense
+* Support beyond the numbers — we help you interpret them
 
-1. Monthly general ledger closing activities, including:
-    - Financial statements
-    - Journal entries
-    - Balance sheet reconciliations
-    - P&L reviews
-2. Monthly bank reconciliations
-3. Collections
-4. Full-cycle accounts payable
-5. Accounts receivable
-
-## Who We Help
-
-Some of clients include:
-
-1. Corporations
-    - S- corporations
-    - C- corporations
-    - LLCs
-2. Partnerships
-3. Fiduciary
-4. Individuals
+*Financial clarity doesn’t happen by accident — it happens by design.*
 
 <!-- solid horizontal line <hr color="#2ac987" style="border:1px solid "> -->
 
