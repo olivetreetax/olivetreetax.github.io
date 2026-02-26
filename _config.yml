@@ -2,6 +2,8 @@ baseurl: ''
 exclude: ['README.md']
 permalink: pretty
 title: 'Olive Tree Tax'
+description: "Federal tax defense and strategic accounting for small business owners. Licensed Enrolled Agents and MS in Taxation — practice in all 50 states."
+email: hello@olivetreetax.com
 
 google_analytics_id: ""
 homepage:
@@ -18,21 +20,18 @@ seo:
   meta_og_type: "website"
   meta_og_url: "http://www.olivetreetax.com"
   #meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
-  meta_og_description: "Olive Tree Tax is a tax preparation provider that also specializes in accounting, bookkeeping, payroll, and other financial services."
+  meta_og_description: "Olive Tree Tax provides federal tax defense and strategic accounting for small business owners. Licensed Enrolled Agent — practice in all 50 states."
   #meta_twitter_card: "summary"
   #meta_twitter_site: "@zerostaticio"
   #meta_twitter_creator: "@zerostaticio"
 
-collections:
-  services:
-    output: true
-  team:
-    output: true
+#collections:
+
 
 sass:
   indentWidth: 4
   style: compact # possible values: nested expanded compact compressed
   precision: 10
 
-plugins:
-  - jekyll-environment-variables
+#plugins:
+

@@ -1,19 +1,35 @@
-<div class="footer">
-  <div class="container">
-    <div class="row">
-      <div class="col-12">
-        <div class="footer-inner">
-          <h3 class="footer-title">{{site.title}}</h3>
-          <ul>
-            {% assign footermenu = site.data.menus.footer | sort: 'weight'  %}
-            {% for item in footermenu %}
-            <li class="{% if item.url == page.url %}active{% endif %}">
-              <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
+<footer class="bg-mfa-evergreen text-mfa-cream pt-16 pb-8 px-6 border-t border-white/5">
+  <div class="max-w-[1200px] mx-auto">
+    <div class="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12 border-b border-white/10 pb-12">
+
+      <!-- Brand -->
+      <div class="col-span-1 md:col-span-2 space-y-6">
+        <h3 class="font-serif text-2xl text-mfa-gold">Olive Tree Tax</h3>
+        <p class="text-sm text-mfa-sage max-w-sm">Professional federal tax defense and strategic financial accounting for small business owners nationwide. <span class="text-mfa-gold font-bold">Hablamos Español.</span></p>
       </div>
+
+      <!-- Nav -->
+      <div>
+        <h5 class="font-ui text-xs font-bold uppercase tracking-widest text-mfa-gold mb-6">Explore</h5>
+        <ul class="space-y-3 text-sm">
+          <li><a href="/"          class="hover:text-mfa-gold transition-colors">Home</a></li>
+          <li><a href="/services/" class="hover:text-mfa-gold transition-colors">Services</a></li>
+          <li><a href="/about/"    class="hover:text-mfa-gold transition-colors">About Us</a></li>
+          <li><a href="/contact/"  class="hover:text-mfa-gold transition-colors">Contact</a></li>
+        </ul>
+      </div>
+
+      <!-- Licensure -->
+      <div>
+        <h5 class="font-ui text-xs font-bold uppercase tracking-widest text-mfa-gold mb-6">Licensure</h5>
+        <p class="text-sm">Federally Authorized Tax Professionals</p>
+        <p class="text-sm mt-2 font-bold text-mfa-gold">Practice in all 50 states</p>
+        <p class="text-sm mt-4">
+          <a href="mailto:hello@olivetreetax.com" class="hover:text-mfa-gold transition-colors">hello@olivetreetax.com</a>
+        </p>
+      </div>
+
     </div>
+    <p class="text-[10px] text-mfa-sage text-center uppercase tracking-widest opacity-60">© {% assign current_year = 'now' | date: "%Y" %}{{ current_year }} Olive Tree Tax. Circular 230 Disclosure applies.</p>
   </div>
-</div>
+</footer>

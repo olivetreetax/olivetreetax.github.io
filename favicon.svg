@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Deep Evergreen circle background -->
+  <circle cx="16" cy="16" r="16" fill="#1F3D2B"/>
+  <!-- Subtle inner shadow ring for depth -->
+  <circle cx="16" cy="16" r="15.5" fill="none" stroke="#0d1f15" stroke-width="0.5" opacity="0.4"/>
+  <!-- Muted Gold italic "O" -->
+  <text
+    x="16"
+    y="22"
+    font-family="Georgia, 'Times New Roman', serif"
+    font-size="20"
+    font-weight="700"
+    font-style="italic"
+    fill="#C6A75E"
+    text-anchor="middle"
+    letter-spacing="-0.5"
+  >O</text>
+</svg>
