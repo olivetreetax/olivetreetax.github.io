@@ -1,39 +1,70 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <title>{% if page.title %}{{page.title}}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <link rel="icon" type="image/svg+xml" href="{{ '/images/olivetree-favicon.svg' | relative_url }}">
-  <!-- <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet"> -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | Olive Tree Tax</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
 
-  <!-- Rebranding fonts -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Playfair+Display:wght@500;600&display=swap" rel="stylesheet">
-  
-  <link href="{{ '/assets/css/style.css' | relative_url }}" rel="stylesheet">
-  {% if page.description %}
-  <meta name="description" content="{{ page.description }}" />
-  {% endif %}
-  <meta property="og:title" content="{{ site.seo.meta_og_title }}" />
-  <meta property="og:type" content="{{ site.seo.meta_og_type }}" />
-  <meta property="og:url" content="{{ site.seo.meta_og_url }}" />
-  <meta property="og:image" content="{{ site.seo.meta_og_image }}" />
-  <meta property="og:description" content="{{ site.seo.meta_og_description }}" />
-  <meta name="twitter:card" content="{{ site.seo.meta_twitter_card }}" />
-  <meta name="twitter:site" content="{{ site.seo.meta_twitter_site }}" />
-  <meta name="twitter:creator" content="{{ site.seo.meta_twitter_creator }}" />
+  <!-- Favicons -->
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="icon" href="/favicon-32.png" type="image/png" sizes="32x32">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-touch-icon" href="/favicon-32.png">
+
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Inter:wght@400;500;600&family=DM+Sans:wght@500;700&display=swap" rel="stylesheet">
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-NY22SSR5T8"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-NY22SSR5T8');
+  </script>
+
+  <!-- Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            'mfa-evergreen': '#1F3D2B',
+            'mfa-cream':     '#F7F6F2',
+            'mfa-gold':      '#C6A75E',
+            'mfa-sage':      '#9EB5A3',
+            'mfa-slate':     '#4A4F55',
+          },
+          fontFamily: {
+            serif: ['Libre Baskerville', 'serif'],
+            sans:  ['Inter', 'sans-serif'],
+            ui:    ['DM Sans', 'sans-serif'],
+          },
+          borderRadius: { 'mfa': '4px' },
+          boxShadow: {
+            'mfa-card': '0 4px 6px -1px rgba(31,61,43,0.1), 0 2px 4px -1px rgba(31,61,43,0.06)',
+          }
+        }
+      }
+    }
+  </script>
+  <style>
+    body { background-color: #F7F6F2; }
+  </style>
 </head>
-<body class='page {{page.bodyClass}}'>
-  {% include main-menu-mobile.html %}
-  <div id="wrapper" class="wrapper">
-    {% include header.html headerClass='header-extra' %}
-    {{content}}
-  </div>
+<body class="font-sans text-mfa-slate antialiased">
+
+  <!-- Global Header -->
+  {% include header.html %}
+
+  <!-- Page Content -->
+  {{ content }}
+
+  <!-- Global Footer -->
   {% include footer.html %}
-  <!-- {% include sub-footer.html %} --> <!-- removes most bottom footer with github, twitter, and jekyll theme text -->
-  <script type="text/javascript" src="{{ "/assets/js/scripts.js" | relative_url }}""></script>
-  {% include google-analytics.html %}
+
 </body>
 </html>
