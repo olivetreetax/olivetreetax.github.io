@@ -154,6 +154,10 @@ description: "Request a confidential case evaluation with a licensed tax profess
   form.addEventListener('submit', async function(e) {
     e.preventDefault();
 
+    const submitBtn = form.querySelector('button[type="submit"]');
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Submitting…';
+
     const data = new FormData(form);
 
     try {
@@ -171,10 +175,14 @@ description: "Request a confidential case evaluation with a licensed tax profess
       } else {
         // Show error if submission fails
         const json = await response.json();
+        submitBtn.disabled = false;
+        submitBtn.textContent = 'Submit Confidential Case Evaluation →';
         alert('There was a problem submitting your form. Please email us directly at hello@olivetreetax.com');
         console.error('Formspree error:', json);
       }
     } catch (error) {
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Submit Confidential Case Evaluation →';
       alert('There was a problem submitting your form. Please email us directly at hello@olivetreetax.com');
       console.error('Network error:', error);
     }
