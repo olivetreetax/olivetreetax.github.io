@@ -15,7 +15,7 @@ description: "Olive Tree Tax is a boutique tax resolution firm. Our licensed tax
         End Your IRS Stress<br/>With Federal Protection.
       </h1>
       <p class="font-sans text-mfa-slate text-lg max-w-md leading-relaxed">
-        Stop the levies and garnishments. Olive Tree Tax is boutique firm of licensed tax professionals that will represent you directly before the IRS to resolve back taxes and audits.
+        Stop the levies and garnishments. Olive Tree Tax is a boutique firm of licensed tax professionals that will represent you directly before the IRS to resolve back taxes and audits.
       </p>
       <div class="flex items-center space-x-4 pt-4">
         <div class="flex -space-x-2">

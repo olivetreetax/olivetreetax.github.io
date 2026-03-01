@@ -5,7 +5,7 @@ title: 'Olive Tree Tax'
 description: "Federal tax defense and strategic accounting for small business owners. Licensed Enrolled Agents and MS in Taxation — practice in all 50 states."
 email: hello@olivetreetax.com
 
-google_analytics_id: ""
+google_analytics_id: "G-NY22SSR5T8"
 homepage:
   show_call_box: true
 logo:
@@ -18,7 +18,7 @@ footer:
 seo:
   meta_og_title: "Olive Tree Tax"
   meta_og_type: "website"
-  meta_og_url: "http://www.olivetreetax.com"
+  meta_og_url: "https://www.olivetreetax.com"
   #meta_og_image: "https://raw.githubusercontent.com/zerostaticthemes/jekyll-serif-theme/master/screenshots/tn.png"
   meta_og_description: "Olive Tree Tax provides federal tax defense and strategic accounting for small business owners. Licensed Enrolled Agent — practice in all 50 states."
   #meta_twitter_card: "summary"
